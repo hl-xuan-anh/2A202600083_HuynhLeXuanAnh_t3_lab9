@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Env files / secrets
+.env
+
+# Local vectorstore artifacts (keep folder via .gitkeep)
+vectorstore/**
+!vectorstore/.gitkeep
+

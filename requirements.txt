@@ -1,0 +1,30 @@
+# Python 3.10+ RAG evaluation + guardrails lab
+
+# RAG + eval
+ragas==0.1.21
+datasets==2.21.0
+pandas==2.2.3
+numpy==1.26.4
+scikit-learn==1.6.1
+matplotlib==3.9.2
+pyyaml==6.0.2
+requests==2.32.3
+python-dotenv==1.0.1
+
+# LangChain + OpenAI (RAG pipeline)
+langchain==0.2.17
+langchain-community==0.2.17
+langchain-openai==0.1.23
+openai==1.75.0
+
+# Local vector store used by the lab RAG pipeline (Chroma)
+chromadb==0.6.3
+tiktoken==0.9.0
+
+# Guardrails / PII
+presidio-analyzer==2.2.357
+presidio-anonymizer==2.2.357
+
+# LLM tooling (only if you run local models / tokenizers)
+transformers==4.46.3
+torch==2.5.1

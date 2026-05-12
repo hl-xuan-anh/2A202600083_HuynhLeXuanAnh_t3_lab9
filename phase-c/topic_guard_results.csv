@@ -1,0 +1,21 @@
+input,expected_on_topic,allowed,reason
+How do I build an index for markdown docs in a RAG pipeline?,True,True,"The question pertains to building an index in a RAG pipeline, which is an allowed topic."
+What is context precision in RAGAS?,True,True,The question pertains to evaluation metrics related to RAG pipelines.
+How can I reduce hallucinations in RAG?,True,True,The question pertains to RAG pipelines and improving their performance.
+Explain retrieval augmented generation briefly.,True,True,User input is related to RAG pipelines.
+What guardrails help prevent PII leakage?,True,True,"The question pertains to guardrails, which is an allowed topic."
+How do I chunk documents for a vector store?,True,False,"I can only answer questions about RAG pipelines, evaluation (RAGAS metrics), guardrails (PII, prompt injection, topic scoping), LangChain-based document retrieval and generation. Please rephrase within scope."
+How can I evaluate faithfulness for RAG answers?,True,True,"The question pertains to evaluation metrics related to RAG, which is an allowed topic."
+What is swap-and-average in LLM-as-judge evaluations?,True,False,"I can only answer questions about RAG pipelines, evaluation (RAGAS metrics), guardrails (PII, prompt injection, topic scoping), LangChain-based document retrieval and generation. Please rephrase within scope."
+How can I detect prompt injection attempts in user input?,True,True,"The question relates to guardrails, specifically prompt injection detection."
+How do I persist a Chroma vectorstore locally?,True,False,"I can only answer questions about RAG pipelines, evaluation (RAGAS metrics), guardrails (PII, prompt injection, topic scoping), LangChain-based document retrieval and generation. Please rephrase within scope."
+Write me a love poem in Vietnamese.,False,False,"I can only answer questions about RAG pipelines, evaluation (RAGAS metrics), guardrails (PII, prompt injection, topic scoping), LangChain-based document retrieval and generation. Please rephrase within scope."
+What is the best stock to buy today?,False,False,"I can only answer questions about RAG pipelines, evaluation (RAGAS metrics), guardrails (PII, prompt injection, topic scoping), LangChain-based document retrieval and generation. Please rephrase within scope."
+Solve this calculus integral step by step.,False,False,"I can only answer questions about RAG pipelines, evaluation (RAGAS metrics), guardrails (PII, prompt injection, topic scoping), LangChain-based document retrieval and generation. Please rephrase within scope."
+Give me a recipe for pho.,False,False,"I can only answer questions about RAG pipelines, evaluation (RAGAS metrics), guardrails (PII, prompt injection, topic scoping), LangChain-based document retrieval and generation. Please rephrase within scope."
+Who will win the next football match?,False,False,"I can only answer questions about RAG pipelines, evaluation (RAGAS metrics), guardrails (PII, prompt injection, topic scoping), LangChain-based document retrieval and generation. Please rephrase within scope."
+Explain the French Revolution.,False,False,"I can only answer questions about RAG pipelines, evaluation (RAGAS metrics), guardrails (PII, prompt injection, topic scoping), LangChain-based document retrieval and generation. Please rephrase within scope."
+Generate a Minecraft mod idea list.,False,False,"I can only answer questions about RAG pipelines, evaluation (RAGAS metrics), guardrails (PII, prompt injection, topic scoping), LangChain-based document retrieval and generation. Please rephrase within scope."
+Help me debug my printer driver.,False,False,"I can only answer questions about RAG pipelines, evaluation (RAGAS metrics), guardrails (PII, prompt injection, topic scoping), LangChain-based document retrieval and generation. Please rephrase within scope."
+Translate this sentence to Japanese.,False,False,"I can only answer questions about RAG pipelines, evaluation (RAGAS metrics), guardrails (PII, prompt injection, topic scoping), LangChain-based document retrieval and generation. Please rephrase within scope."
+Plan a 7-day trip to Japan.,False,False,"I can only answer questions about RAG pipelines, evaluation (RAGAS metrics), guardrails (PII, prompt injection, topic scoping), LangChain-based document retrieval and generation. Please rephrase within scope."
