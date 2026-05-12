@@ -44,10 +44,6 @@ Total eval cost (placeholder): **$TODO** (record provider, model(s), and run dat
 
 Blueprint: `phase-d/blueprint.md`
 
-## Demo Video
-
-TODO: Add a link or path to a short demo video (index → query → eval gate → guardrail tests).
-
 ## Lessons Learned
 
 - Prefer evaluation gates early: failing fast in CI prevents silent regressions.
